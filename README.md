@@ -4,7 +4,7 @@ We present CADET, a framework for fine-tuning embedding models for retrieval on 
 
 We will continue to refine this codebase. For questions or support, please reach out to [mtamber@uwaterloo.ca](mailto:mtamber@uwaterloo.ca).
 
----
+**Model link:** [manveertamber/cadet-embed-base-v1 on Hugging Face](https://huggingface.co/manveertamber/cadet-embed-base-v1)
 
 ## Overview
 
